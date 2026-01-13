@@ -5,20 +5,21 @@
 Sou apaixonada por tecnologia e estou em constante aprendizado na área de desenvolvimento.  
 Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** e atualmente sigo me aprofundando no universo da programação, com foco em **desenvolvimento front-end**.
 
-Tenho experiência com **HTML, CSS, JavaScript, TypeScript e React**, além de familiaridade com **Git, GitHub, Next.js, Tailwind CSS e Python**.  
+Tenho experiência com **HTML, CSS, JavaScript, TypeScript e React**, além de familiaridade com **, Tailwind CSS, Git, GitHub e Python**.  
 Gosto de aprender na prática, criar projetos e transformar ideias em soluções funcionais.
 
-Acredito no poder da tecnologia para resolver problemas reais e sou movida por desafios, evolução contínua e vontade de crescer profissionalmente. 🚀
+Acredito no poder da tecnologia para resolver problemas reais e sou movida por desafios, evolução contínua e vontade de crescer profissionalmente. 🚀  
+Busco oportunidades como **Desenvolvedora Front-end Júnior**.
 
 ---
 
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tamires-guedes/" target="_blank">
+  <a href="https://www.linkedin.com/in/t-guedes/" target="_blank">
     <img 
       alt="LinkedIn" 
-      title="LinkedIn" 
+      title="LinkedIn Tamires Guedes" 
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Tamires%20Guedes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
@@ -26,8 +27,8 @@ Acredito no poder da tecnologia para resolver problemas reais e sou movida por d
   <a href="https://www.instagram.com/tamiresguedes__/" target="_blank">
     <img 
       alt="Instagram" 
-      title="Instagram Dev em Dev" 
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-Dev%20em%20Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      title="Instagram" 
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-Tamires%20Guedes-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
 
@@ -50,7 +51,6 @@ Acredito no poder da tecnologia para resolver problemas reais e sou movida por d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
