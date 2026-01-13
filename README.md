@@ -64,9 +64,15 @@ Busco oportunidades como **Desenvolvedora Front-end Júnior**.
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-guedes&theme=tokyonight"
   />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T-guedes&theme=tokyonight"
+    style="border-radius: 8px;"
+  />
+</div>
+
 </p>
 
-<p align="left">
+<p align="center">
   <img 
     src="https://img.shields.io/github/followers/T-guedes?label=Seguidores&style=for-the-badge"
   />
