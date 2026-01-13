@@ -1,6 +1,6 @@
 # 👩🏾‍💻 Tamires Guedes
 
-**Desenvolvedora Front-end**
+**`Desenvolvedora Front-end`**
 
 Sou apaixonada por tecnologia e estou em constante aprendizado na área de desenvolvimento.  
 Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** e atualmente sigo me aprofundando no universo da programação, com foco em **desenvolvimento front-end**.
