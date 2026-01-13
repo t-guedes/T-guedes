@@ -60,21 +60,25 @@ Busco oportunidades como **Desenvolvedora Front-end Júnior**.
 
 ## 📊 Estatísticas do GitHub
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=t-guedes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-guedes&theme=tokyonight"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-guedes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
+
+<p align="left">
+  <img 
+    src="https://img.shields.io/github/followers/T-guedes?label=Seguidores&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/github/stars/T-guedes?label=Estrelas&style=for-the-badge"
+  />
+  <img 
+    src="https://img.shields.io/badge/Repositórios-Públicos-blue?style=for-the-badge"
+  />
+</p>
+
+
+
+
 
