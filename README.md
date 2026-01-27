@@ -2,13 +2,15 @@
 
 **`Desenvolvedora Front-end`**
 
-Sou apaixonada por tecnologia e estou em constante aprendizado na área de desenvolvimento.  
-Concluí minha graduação em **Análise e Desenvolvimento de Sistemas** e atualmente sigo me aprofundando no universo da programação, com foco em **desenvolvimento front-end**.
+Sou apaixonada por tecnologia e estou em constante aprendizado na área de desenvolvimento.
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente direciono meus estudos para **desenvolvimento front-end**.
 
-Tenho experiência com **HTML, CSS, JavaScript e React**, além de familiaridade com **TypeScript, Tailwind CSS, Git, GitHub e Python**.  
-Gosto de aprender na prática, criar projetos e transformar ideias em soluções funcionais.
+Tenho experiência com HTML, CSS, JavaScript e React, adquirida por meio de cursos e projetos práticos.
+Possuo conhecimentos básicos em Python, obtidos durante a graduação, e noções iniciais de TypeScript, estudadas de forma teórica e introdutória.
+Já utilizei Tailwind CSS em projetos e faço uso de Git e GitHub para versionamento de código.
 
-Acredito no poder da tecnologia para resolver problemas reais e sou movida por desafios, evolução contínua e vontade de crescer profissionalmente. 🚀  
+Gosto de aprender na prática, desenvolver projetos e transformar ideias em interfaces funcionais.
+Acredito no poder da tecnologia para resolver problemas reais e sou movida por desafios, aprendizado contínuo e crescimento profissional. 🚀
 Busco oportunidades como **Desenvolvedora Front-end Júnior**.
 
 ---
